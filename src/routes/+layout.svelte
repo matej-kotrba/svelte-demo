@@ -10,6 +10,9 @@
 		<li>
 			<a href="/posts">Posts</a>
 		</li>
+		<li>
+			<a href="/another-link">Another link</a>
+		</li>
 	</ul>
 </nav>
 
