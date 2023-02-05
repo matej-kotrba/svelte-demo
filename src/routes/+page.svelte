@@ -2,6 +2,8 @@
 	let counter = 0;
 	let text = '';
 
+	console.log('Hello from page.svelte');
+
 	function increment() {
 		counter += 1;
 	}
