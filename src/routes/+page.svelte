@@ -19,3 +19,5 @@
 <button on:click={() => (text = '')}>Reset</button>
 
 <p>Some text</p>
+
+<p>Yet another text</p>
